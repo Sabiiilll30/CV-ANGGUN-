@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.removebg-preview {
+    width: 200px;
+}
+.profile h2 {
+    color: aliceblue;
+}
+.profile h4 {
+    color: aliceblue;
+    transform: translateY(-10px);
+}
+.MyProfile {
+    background: linear-gradient(#fffeff 0%,#ffffffd5 40%,#fdfdfd00 100%)
+    padding-bottom 200px;
+    padding-top: 55px;
+}
+.achievement {
+    padding-top: 55px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.CONTACT a {
+    color: black;
+    font-size: 30px;
+}
+.watermark {
+    padding-top: 30px;
+}
